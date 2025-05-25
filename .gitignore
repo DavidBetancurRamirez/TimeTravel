@@ -16,6 +16,9 @@ Packages/packages-lock.json
 *.booproj
 *.svd
 
+# Big Files
+Assets/Models/futuristic-background-buildings-kit/textures
+
 # Visual Studio
 .vscode/
 .vs/
